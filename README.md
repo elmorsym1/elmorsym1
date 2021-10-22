@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elmorsym1
 - 👀 I’m interested in AI and Data Analytics.
 - 🌱 I’m currently learning cloud computing.
-- 💞️ I’m looking to collaborate on AI applications in Civ. Eng.
+- 💞️ I’m looking to collaborate on AI applications.
 - 📫 How to reach me? Shoot me an email at emorsym@mcmaster.ca
 
 <!---
